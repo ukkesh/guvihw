@@ -1,0 +1,25 @@
+1. Difference between HTTP1.1 and  HTTP 2
+
+HTTP1.1 :
+
+* HTTP is the short form of HYPER TEXT TRANSFER PROTOCOL . HTTP1.1 was invented in 1997
+* Text based commands are used for HTTP request
+* HTTP1.1 process  one request at a time  
+* low response time and compresses data by itself
+HTTP2 :
+
+* It was released in 2015 based on googles SPDY protocol 
+* Binary based commands are used for HTTP request 
+* It process multiple requset over a single TCP connection
+* high response time and uses HPACK for data compression
+
+---------------------------------
+
+2. objects :
+In javascript objects is the most important data type and it is different from other primitive 
+data types because objects can have any number of combinations of primitive data types 
+the object is associated with property and behaviour of an object 
+Eg: animal , car , bus...
+  object values can be accesed using
+ objectname.objectproperty
+
