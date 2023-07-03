@@ -1,0 +1,18 @@
+DAY 2
+
+1. DIFFERENCE BETWEEN WINDOW OBJECT & DOCUMENT OBJECT 
+
+
+      Document object :
+
+* It is a web page with the content loaded in the browser 
+* the document objects are accessed through window 
+* content ,images , properties of document object can be accessed and edited by window object
+
+Window object :
+
+* It represents the browser window where the contents are displayed
+* window object is accessed by the browser window itself 
+* properties of window object cannot be accessed by document object 
+
+
